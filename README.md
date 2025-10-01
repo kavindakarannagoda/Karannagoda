@@ -39,7 +39,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?theme=dark&i=html,css,bootstrap,javascript,arduino,docker,figma,firebase,flutter,androidstudio,github,ae,vscode,pycharm,wordpress,java,kotlin,mongodb,mysql,react,nodejs,php,postman,python,xd,ai,ps,pr,apple,bash,c,cpp,dart,git,gradle,hibernate,idea,sqlite,jquery" />
+    <img src="https://skills.syvixor.com/api/icons?theme=dark&i=html,css,bootstrap,javascript,apache,apachejmeter,apachemaven,android,arduino,docker,expo,figma,cpanel,elementor,firebase,flutter,androidstudio,github,ae,vscode,pycharm,wordpress,java,kotlin,mongodb,mysql,react,netbeans,ngrok,npm,notion,nodejs,oracle,reactnative,rest,nodejs,tailwindcss,php,postman,spring,springboot,python,unity,xd,ai,ps,pr,apple,bash,c,cpp,csharp,dart,git,gradle,hibernate,idea,sqlite,jquery,xml,xampp,wordpress,woocommerce" />
   </a>
 </p>
 
