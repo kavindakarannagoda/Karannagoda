@@ -39,7 +39,7 @@
 <!-- Skill Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=16&theme=dark&i=html,css,bootstrap,javascript,arduino,docker,figma,firebase,flutter,androidstudio,github,ae,vscode,pycharm,wordpress,java,kotlin,mongodb,mysql,react,nodejs,php,postman,python,xd,ai,ps,pr,apple,bash,c,cpp,dart,git,gradle,hibernate,idea,sqlite,jquery" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=html,css,bootstrap,javascript,arduino,docker,figma,firebase,flutter,androidstudio,github,ae,vscode,pycharm,wordpress,java,kotlin,mongodb,mysql,react,nodejs,php,postman,python,xd,ai,ps,pr,apple,bash,c,cpp,dart,git,gradle,hibernate,idea,sqlite,jquery" />
   </a>
 </p>
 
@@ -53,8 +53,7 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=karannagoda&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karannagoda&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" /></p>
 </div>
 
-
 <!-- Bottom Wave -->
 <div align="right">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&reversal=false&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0072ff&reversal=false&section=footer"/>
 </div>
