@@ -1,14 +1,14 @@
 <!-- Summary -->
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karannagoda&hide_border=true&theme=transparent&card_width=1000" alt="Karannagoda's Github Summary" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindakarannagoda&hide_border=true&theme=transparent&card_width=1000" alt="Karannagoda's Github Summary" /></p>
 </div>
 
 <!-- Lables -->
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=karannagoda&color=blue&abbreviated=true&style=flat) 
-![Followers](https://img.shields.io/github/followers/karannagoda?label=Followers) 
-![Stars](https://img.shields.io/github/stars/karannagoda?label=Stars) 
+![](https://komarev.com/ghpvc/?username=kavindakarannagoda&color=blue&abbreviated=true&style=flat) 
+![Followers](https://img.shields.io/github/followers/kavindakarannagoda?label=Followers) 
+![Stars](https://img.shields.io/github/stars/kavindakarannagoda?label=Stars) 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCAGeBHuLx1XTpNju2VAj0Mg)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCAGeBHuLx1XTpNju2VAj0Mg)
 </div>
@@ -50,7 +50,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api?username=karannagoda&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karannagoda&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=kavindakarannagoda&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindakarannagoda&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" /></p>
 </div>
 
 <!-- Bottom Wave -->
